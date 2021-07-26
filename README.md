@@ -1,1 +1,2 @@
-# INFINITE-RUNNER-GAME-1.P.38
+# trex
+Chrome's trex game created using p5.play
